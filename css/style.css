@@ -1,0 +1,8 @@
+.title {
+  color: #0000ff;
+}
+.title.is-active {
+  color: #000000;
+}
+
+/*# sourceMappingURL=style.css.map */
