@@ -22,7 +22,7 @@ npm run start
 ・index.htmlの絶対パスを打つ
 
 # 課題内容
-以下の画像を模写してください  
+## 以下の画像を模写してください  
 ![](./assets/practice.png)  
 
 [実際の動きはサイトを参考にしてね！](https://townwork.net/joSrchRsltList/?ac=041&slc=0113&suc=01&svos=SCP01030101Salary0113)
