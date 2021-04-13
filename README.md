@@ -5,7 +5,7 @@
 * Nodeのバージョンは以下を設定
 `Node.js: 14.16.0`
 
-# gitの作業ブランチを作成してださい
+# gitの作業ブランチを作成してください
 ```
 git clone https://github.com/kdi0618/onoke.git
 git init
