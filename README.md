@@ -8,7 +8,8 @@
 # gitの作業ブランチを作成してださい
 ```
 git clone https://github.com/kdi0618/onoke.git
-git checkout -b 好きなブランチ名
+git init
+git checkout -b develop/自分の名前
 ```
 
 # ブラウザでの確認方法
