@@ -15,6 +15,12 @@ git checkout -b develop/自分の名前
 # ブラウザでの確認方法
 ・最初に
 ```
+npm install
+```
+を打ち, node-modulesをインストールする.  
+
+次に、以下のコマンド
+```
 npm run start
 ```
 を打つ  
