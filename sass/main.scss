@@ -7,5 +7,33 @@
 }
 
 // ↓↓↓以下に実装してください
+.news{
+  background-color: darkgoldenrod;
+}
+.new{
+  color:red;
+  padding-left:30px;
+  text-align: right;
+}
+.kaigo{
+  float:left;
+  margin-bottom:900px;
+}
 
+.reds{
+  color:red;
+  border-color: 1px solid red;
+  float:right;
+}
+.blues{
+  color:blue;
+  float:right;
+  border-bottom: 1px solid blue;
+}
+.limit1{
+  color:red;
+}
+.limit2{
+  font-size:40px;
+}
 // ↑↑↑ここまで

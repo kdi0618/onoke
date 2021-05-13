@@ -5,4 +5,23 @@
   color: #000000;
 }
 
+.new {
+  background-color: darkgoldenrod;
+  color: red;
+}
+
+.p {
+  float: right;
+}
+
+.red {
+  color: red;
+  border-color: red 1px solid;
+}
+
+.blue {
+  color: blue;
+  border-bottom: blue 1px solod;
+}
+
 /*# sourceMappingURL=style.css.map */
