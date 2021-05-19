@@ -32,7 +32,7 @@ npm install
 ```
 npm start
 ```
-実行後、ブラウザにURL`http://localhost:8080/index.html`の画面が表示されたらOK！
+実行後、ブラウザにURL`http://localhost:8080`の画面が表示されたらOK！
 
 # 課題内容
 ## 以下の画像を模写してください  
