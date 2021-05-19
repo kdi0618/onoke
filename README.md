@@ -1,31 +1,38 @@
-# 環境構築
+# 以下の流れで課題の準備
+## 1. 環境構築
 * Node.jsをインストールしていない場合  
-こちらのサイトを参考にインストール >>[こちら](https://qiita.com/mame_daifuku/items/373daf5f49ee585ea498)<<  
+こちらのサイトを参考にインストール >>[こちら](https://qiita.com/ttokdev/items/3547587b0494dd624901)<<  
 
 * Nodeのバージョンは以下を設定
 `Node.js: 14.16.0`
-
-# gitの作業ブランチを作成してください
+### onokeリポジトリを作成
 ```
 git clone https://github.com/kdi0618/onoke.git
 cd onoke
-git checkout -b develop/自分の名前
 ```
+### npm系のコマンドを使えるようにする
+```
+nodenv install 14.16.0
+nodenv local 14.16.0
+node --version
+```
+↑最後のコマンドを打った際に`v14.16.0`と表示されたらOK
 
-# ブラウザでの確認方法
-・最初に
+## 2. 作業ブランチを準備
+```
+git checkout -b develop/自分の名前
+git checkout -b develop/自分の名前-townwork
+```
+### `JavaScript`の諸々のライブラリをインストール
 ```
 npm install
 ```
-を打ち, node-modulesをインストールする.  
-
-次に、以下のコマンド
+### npmコマンドで開発サーバーを立ち上げて作業開始！
+・最初に
 ```
-npm run start
+npm start
 ```
-を打つ  
-・ブラウザを開く  
-・index.htmlの絶対パスを打つ
+これで、ブラウザに画面が表示されたらOK！
 
 # 課題内容
 ## 以下の画像を模写してください  
