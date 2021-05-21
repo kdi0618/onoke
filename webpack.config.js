@@ -18,7 +18,8 @@ module.exports = {
     filename: 'backend.js'
   },
   devServer: {
-    contentBase: path.join(__dirname, 'public'),
+    contentBase: path.join(__dirname, '/'),
+    openPage:"./public/index.html",
     open: true,
   },
   externals: nodeModules
