@@ -5,23 +5,111 @@
   color: #000000;
 }
 
-.new {
+.news {
   background-color: darkgoldenrod;
+  margin-right: 300px;
+}
+
+.new {
   color: red;
+  padding-left: 30px;
+  text-align: left;
+}
+
+.kaigo {
+  float: left;
+  margin-bottom: 900px;
+}
+
+.opening {
+  float: left;
+  padding: 0 0 0 20px;
+}
+
+.picture {
+  float: left;
+}
+
+.reds {
+  width: 70px;
+  color: red;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+
+.blues {
+  color: blue;
+  border-bottom: 1px solid blue;
 }
 
 .p {
-  float: right;
+  float: left;
 }
 
-.red {
+.limit1 {
   color: red;
-  border-color: red 1px solid;
 }
 
-.blue {
-  color: blue;
-  border-bottom: blue 1px solod;
+.limit2 {
+  font-size: 40px;
+}
+
+.salary {
+  height: 70px;
+  padding-top: 200px;
+}
+
+.sa1 {
+  float: left;
+  padding: 0 30px 0 20px;
+  font-size: 20px;
+  border: 1px solid grey;
+  text-align: center;
+}
+
+.sa2 {
+  float: left;
+  padding: 0 25px 0 0;
+}
+
+.sa2 span {
+  color: red;
+}
+
+.trafic {
+  padding-bottom: 50px;
+}
+
+.trafic1 {
+  float: left;
+  padding: 0 40px 0 40px;
+  font-size: 20px;
+  border: 1px solid grey;
+}
+
+.trafic2 {
+  float: left;
+  padding: 0 25px 0 0;
+}
+
+.time {
+  padding-bottom: 50px;
+}
+
+.time1 {
+  float: left;
+  padding: 0 40px 0 40px;
+  font-size: 20px;
+  border: 1px solid grey;
+}
+
+.time2 {
+  float: left;
+  padding: 0 25px 0 0;
+}
+
+.finish {
+  margin-top: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
